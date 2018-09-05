@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>this is the tittle of the tab</title>
+  <meta charset="utf-8">
+  <meta name="discribtion" content="this structure is from my brainstorm session">
+  <meta name="keywords" content=" keywords1, keywords2, keywords3, keywords4">
+</head>
+<body>
+  <main>
+   <section id="section1">
+    <article></article>
+   </section>
+   <section id="section2">
+   </section">
+   <section id="section3">
+   </section>
+  
+   </main>
+  <aside></aside>
+
+
+
+
+</body>
+</html>
